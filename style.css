@@ -1,0 +1,10 @@
+body {
+    background-color: brown;
+    
+}
+.p-custom{
+        font-size: 20px;
+        margin: 20px;
+        line-height: 1.5;
+        color:rgb(222, 167, 135);
+    }
